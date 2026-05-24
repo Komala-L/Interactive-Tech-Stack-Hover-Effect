@@ -33,7 +33,7 @@ interactive-cursor-effect/ <br>
 
 ## 📌 Setup Instructions
 1. Clone the repository <br>
-git clone https://github.com/your-username/interactive-cursor-effect.git <br>
+git clone https://github.com/Komala-L/interactive-cursor-effect.git <br>
 2. Navigate to the project folder <br>
 cd interactive-cursor-effect <br>
 3. Open index.html in your browser <br>
